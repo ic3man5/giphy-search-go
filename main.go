@@ -1,5 +1,6 @@
 // https://go.dev/doc/tutorial/getting-started
 // https://gioui.org/doc/learn/get-started
+// https://wails.io/docs/introduction
 package main
 
 import (
